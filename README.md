@@ -133,16 +133,16 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 <img src="./assets/6.png">
 
 
-
+#### 修改黑白图像API地址
+地址：https://github.com/paperClub-hub/ImageColorizations
+此项目API封装，可自己开发，也可联系此项目开发者索取
 
 
 ##### 修改图片存储地址：
 
 <img src="./assets/7.png">
 
-#### 修改黑白图像API地址
-地址：https://github.com/paperClub-hub/ImageColorizations
-此项目API封装，可自己开发，也可联系此项目开发者索取
+
 
 解释：
 
