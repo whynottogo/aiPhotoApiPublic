@@ -1,0 +1,2 @@
+update pic_info set deleted = 1 where id > 0;
+update web_set set home_left_info = "一寸照片",home_left_url='/pages/preEdit/index?index=0&data={"id":1,"name":"一寸","widthPx":295,"heightPx":413,"widthMm":25,"heightMm":35,"icon":5,"sort":1,"category":1,"dpi":300}' where id = 1;
