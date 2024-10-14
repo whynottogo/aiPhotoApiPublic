@@ -4,7 +4,7 @@
 
 # 项目介绍
 
-# <p align="center">证件照伴侣</p>
+# <p align="center">AI智能照</p>
 <p align="center">我给你的，就是我想要的，我爱你的方式，就是我希望被爱的方式.</p>
 <p align="center"><img src="./assets/1.png"></p>
 
@@ -16,6 +16,7 @@
 
 - 小程序前端请前往：https://github.com/whynottogo/aiPhotoWechat
 - HivisionIDPhotos：https://github.com/Zeyi-Lin/HivisionIDPhotos
+- 此项目原本二开项目地址：https://github.com/no1xuan/zjzWx
 
 <hr>
 <br>
@@ -139,6 +140,10 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 
 <img src="./assets/7.png">
 
+#### 修改黑白图像API地址
+地址：https://github.com/paperClub-hub/ImageColorizations
+此项目API封装，可自己开发，也可联系此项目开发者索取
+
 解释：
 
 你需要一个新建一个静态网站，将目录指定：/www/wwwroot/zjzpic/pic
@@ -163,7 +168,10 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 
 鉴黄APi：http://121.62.63.137:3006/
 
-证件照APi:  http://121.62.63.137:8199/
+证件照APi:  http://47.109.76.12:8900/
+
+黑白照Api: http://47.109.76.12:8001/
+
 
 <hr>
 <br>
@@ -172,7 +180,7 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 
 # ⚡️注意
 
-1. 本项目使用IDEA打包后，会自动把打包后的jar包放入D:\jar2
+1. 本项目使用IDEA打包后，会自动把打包后的jar包放入./target/division.jar
 2. 鉴黄模型目前不怎么精准，建议在小程序过审时打开，其它时间关闭
 3. 部署自已鉴黄和证件照APi时，不建议开设外网，防止被抓接口后滥用，yml里面配置127.0.0.1即可本地链接，速度还快，还安全
 4. 为什么不把APi地址等参数放入数据库来配置？答：频繁使用的值，不建议与Mysql频繁握手
@@ -187,6 +195,6 @@ uniapp多端兼容版：https://github.com/wmlcjj/AI-IDPhoto
 
 您可以通过以下方式联系我:
 
-QQ: 24677102
+QQ: 43883407
 
-微信：webxuan
+微信：shynin
